@@ -9,7 +9,7 @@ Materiais da disciplina **Prática de Pesquisa**.
 
 - 1. Fundamentos da Linguagem R: [PDF](01-R-Basics.pdf) | [Código](examples/01-R-Basics.md)
 - 2. Visualização de Dados: [PDF](02-DataVisualization.pdf) | [Código](examples/02-DataVisualization.md)
-- 3. Análise Exploratória de Dados: [PDF](04-ExploratoryAnalysis.pdf) | [Código](examples/03-ExploratoryAnalysis.md)
+- 3. Análise Exploratória de Dados: [PDF](03-ExploratoryAnalysis.pdf) | [Código](examples/03-ExploratoryAnalysis.md)
 
 ## Arquivos-fonte (Rmd)
 
