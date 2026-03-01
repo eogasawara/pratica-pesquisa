@@ -7,12 +7,14 @@ Materiais da disciplina **Prática de Pesquisa**.
 
 ## Slides e exemplos
 
-- 1. Fundamentos da Linguagem R: [PDF](01-R-Basics.pdf) | [Código](examples/01-R-Basics.md)
-- 2. Visualização de Dados: [PDF](02-DataVisualization.pdf) | [Código](examples/02-DataVisualization.md)
-- 3. Análise Exploratória de Dados: [PDF](03-ExploratoryAnalysis.pdf) | [Código](examples/03-ExploratoryAnalysis.md)
+- 1. Fundamentos da Linguagem R: [01-R-Basics.pdf](01-R-Basics.pdf) | [examples/01-R-Basics.md](examples/01-R-Basics.md)
+- 2. Visualização de Dados: [02-DataVisualization.pdf](02-DataVisualization.pdf) | [examples/02-DataVisualization.md](examples/02-DataVisualization.md)
+- 3. Análise Exploratória de Dados: [03-ExploratoryAnalysis.pdf](03-ExploratoryAnalysis.pdf) | [examples/03-ExploratoryAnalysis.md](examples/03-ExploratoryAnalysis.md)
+- 4. Ambiente DAL: [0A-ambiente-dal.pdf](0A-ambiente-dal.pdf)
+- 5. RStudio e GitHub: [0B-rstudio-github.pdf](0B-rstudio-github.pdf)
 
 ## Arquivos-fonte (Rmd)
 
-- [01-R-Basics.Rmd](Rmd/01-R-Basics.Rmd)
-- [02-DataVisualization.Rmd](Rmd/02-DataVisualization.Rmd)
-- [03-ExploratoryAnalysis.Rmd](Rmd/03-ExploratoryAnalysis.Rmd)
+- [Rmd/01-R-Basics.Rmd](Rmd/01-R-Basics.Rmd)
+- [Rmd/02-DataVisualization.Rmd](Rmd/02-DataVisualization.Rmd)
+- [Rmd/03-ExploratoryAnalysis.Rmd](Rmd/03-ExploratoryAnalysis.Rmd)
