@@ -12,6 +12,7 @@ Materiais da disciplina **Prática de Pesquisa**.
 - 3. Análise Exploratória de Dados: [03-ExploratoryAnalysis.pdf](03-ExploratoryAnalysis.pdf) | [examples/03-ExploratoryAnalysis.md](examples/03-ExploratoryAnalysis.md)
 - 4. Ambiente DAL: [0A-ambiente-dal.pdf](0A-ambiente-dal.pdf)
 - 5. RStudio e GitHub: [0B-rstudio-github.pdf](0B-rstudio-github.pdf)
+- 6. Temas: [0C-Temas.pdf](0C-Temas.pdf)
 
 ## Arquivos-fonte (Rmd)
 
