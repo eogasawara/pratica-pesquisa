@@ -17,9 +17,9 @@ O curso visa integrar conhecimentos teóricos e metodológicos com a prática de
 1. [Fundamentos da Linguagem R](https://github.com/eogasawara/pratica-pesquisa/blob/main/01-R-Basics.pdf) - [código](https://github.com/eogasawara/pratica-pesquisa/blob/main/examples/01-R-Basics.md)
 2. [Visualização de Dados](https://github.com/eogasawara/pratica-pesquisa/blob/main/02-DataVisualization.pdf) - [código](https://github.com/eogasawara/pratica-pesquisa/blob/main/examples/02-DataVisualization.md)
 3. [Análise Exploratória de Dados](https://github.com/eogasawara/pratica-pesquisa/blob/main/03-ExploratoryAnalysis.pdf) - [código](https://github.com/eogasawara/pratica-pesquisa/blob/main/examples/03-ExploratoryAnalysis.md)
-4. [Ambiente Data Analytics](https://github.com/eogasawara/pratica-pesquisa/blob/main/0A-ambiente-dal.pdf)
-5. [Configuração do GitHub](https://github.com/eogasawara/pratica-pesquisa/blob/main/0B-rstudio-github.pdf)
-6. [Temas de Prática de Pesquisa](https://github.com/eogasawara/pratica-pesquisa/blob/main/0C-Temas.pdf)
+4. [Ambiente Data Analytics](https://github.com/eogasawara/pratica-pesquisa/blob/main/ambiente-dal.pdf)
+5. [Configuração do GitHub](https://github.com/eogasawara/pratica-pesquisa/blob/main/rstudio-github.pdf)
+6. [Temas de Prática de Pesquisa](https://github.com/eogasawara/pratica-pesquisa/blob/main/2026-2-Temas.pdf)
 
 ## Material complementar
 
